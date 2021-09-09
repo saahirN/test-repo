@@ -1,2 +1,9 @@
-# test-repo
-This is a demo repo for code2college
+# Introduction
+
+This is a repository created by Saahir
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
