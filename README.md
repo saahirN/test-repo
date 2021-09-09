@@ -2,7 +2,7 @@
 
 This is a repository created by Saahir
 
-## Usage
+##### Usage
 
 Run this command to execute the application:
 
